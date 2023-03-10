@@ -2,7 +2,7 @@
 - 👀 I’m interested in GIS, Digital Humanities, and Text analysis.
 - 🌱 I’m currently learning Python, SpaCy, GeoPandas, etc. 
 - 💞️ I’m looking to collaborate on Digital Humanities project 
-- 📫 How to reach me diane.lopez@utsa.edu
+- 📫 How to reach me diane.lopez2@utsa.edu
 
 <!---
 dianita956/dianita956 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
