@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dianita956
-- 👀 I’m interested in GIS and Digital Humanities.
-- 🌱 I’m currently using Python, SpaCy, and GeoPandas, ArcGIS for GIS Digital Humanities projects. 
-- 💞️ I’m looking to learn more about digital tools and programming languages.
+- 👀 I’m interested in GIS, NPL, and Digital Humanities.
+- 🌱 I’m using Python, SpaCy, GeoPandas, and ArcGIS for GIS Digital Humanities projects. 
+- 💞️ I want to learn more about digital tools and other programming languages.
 - 📫 How to reach me diane.lopez2@utsa.edu
 
 <!---
