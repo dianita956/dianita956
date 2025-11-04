@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dianita956
 - 👀 I’m interested in GIS and Digital Humanities.
-- 🌱 I’m using different Python libraries and Mapboax for GIS Digital Humanities projects.  
+- 🌱 I’m using different Python libraries and Mapbox for GIS Digital Humanities projects.  
 - 💞️ I want to learn more about digital tools and other programming languages.
 
 <!---
